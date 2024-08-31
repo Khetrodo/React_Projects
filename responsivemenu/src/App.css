@@ -1,0 +1,22 @@
+
+
+.MOdal{
+width:25%;
+height:50%;
+background-color:beige;
+background-size: cover;
+position: fixed;
+left:35%;
+top:10%;
+}
+.Btn{
+
+right: 0;
+top:50%;
+
+transform: rotate(90deg);
+}
+
+.cross{
+cursor: pointer;
+}
